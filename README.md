@@ -1,3 +1,4 @@
 # Augy Studios Website
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F41H5S9)
+Buy me a coffee!
+https://donate.stripe.com/28o2akeAr3hv0DK6oo
